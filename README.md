@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshitha</h1>
+<h3 align="center">🚀 Laravel | Python | React Developer</h3>
 
-<!--
-**harshitha-swamy/harshitha-swamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 Passionate about building scalable web applications  
+💻 3+ Years Experience in Laravel Development  
+🐍 Exploring Python Development  
+⚛️ Building modern UI with React  
+🎯 Goal: Become a Senior Full Stack Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p>
+💡 Backend: Laravel | PHP | Python <br>
+🎨 Frontend: React <br>
+🗄️ Database: MySQL <br>
+🔗 API: REST APIs <br>
+🧰 Tools: Git | GitHub | Postman
+</p>
+
+---
+
+## 🚀 Projects
+
+🔹 URL Shortener System  
+Role-based system with Admin, Member & SuperAdmin  
+
+🔹 Multi-Role Authentication System  
+Secure login system with company-based access  
+
+🔹 React UI Dashboard  
+Dynamic frontend with API integration  
+
+---
+
+## 📈 GitHub Stats
+
+![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitha-swamy&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-swamy&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+📧 harshithaswamy3124@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/harshitha-s-965370331/ 
+
+---
+
+⭐ Always learning. Always building.
