@@ -36,17 +36,6 @@ Dynamic frontend with API integration
 
 ---
 
-## 📈 GitHub Stats
-
-![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitha-swamy&show_icons=true&theme=radical)
-
----
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-swamy&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
