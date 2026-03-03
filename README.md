@@ -30,9 +30,7 @@ Role-based system with Admin, Member & SuperAdmin
 
 🔹 Multi-Role Authentication System  
 Secure login system with company-based access  
-
-🔹 React UI Dashboard  
-Dynamic frontend with API integration  
+ 
 
 ---
 
