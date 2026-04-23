@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harshitha</h1>
-<h3 align="center">🚀 Laravel | Python | React Developer</h3>
+<h3 align="center">🚀 DotNet | Laravel | Python | React Developer</h3>
 
 ---
 
 🌟 Passionate about building scalable web applications  
-💻 3+ Years Experience in Laravel Development  
+💻 3+ Years Experience in Laravel and DotNet Development  
 🐍 Exploring Python Development  
 ⚛️ Building modern UI with React  
 🎯 Goal: Become a Senior Full Stack Developer  
@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-💡 Backend: Laravel | PHP | Python <br>
+💡 Backend: DotNet | Laravel | PHP | Python <br>
 🎨 Frontend: React <br>
 🗄️ Database: MySQL <br>
 🔗 API: REST APIs <br>
